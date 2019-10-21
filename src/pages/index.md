@@ -3,7 +3,7 @@ templateKey: index-page
 title: ini judul yang sudah di edit lewat admin
 image: /img/home-jumbotron.jpg
 heading: ini heading
-subheading: Support sustainable farming while enjoying a cup
+subheading: sub heading
 mainpitch:
   title: Why Kaldi
   description: >
